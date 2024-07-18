@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0009-palindrome-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
