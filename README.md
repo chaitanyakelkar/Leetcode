@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chaitanyakelkar/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/chaitanyakelkar/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/chaitanyakelkar/Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/chaitanyakelkar/Leetcode/tree/master/0118-pascals-triangle) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/chaitanyakelkar/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/chaitanyakelkar/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
