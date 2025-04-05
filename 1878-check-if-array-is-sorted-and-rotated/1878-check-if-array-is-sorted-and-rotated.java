@@ -7,6 +7,7 @@ class Solution {
         }
         if (nums[nums.length-1] > nums[0]) count++;
 
+        System.gc();
         return count <= 1;
     }
 }
