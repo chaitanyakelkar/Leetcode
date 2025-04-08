@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/chaitanyakelkar/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chaitanyakelkar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chaitanyakelkar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chaitanyakelkar/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chaitanyakelkar/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/chaitanyakelkar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/chaitanyakelkar/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Recursion
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/chaitanyakelkar/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -110,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyakelkar/Leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
