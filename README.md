@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chaitanyakelkar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chaitanyakelkar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chaitanyakelkar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chaitanyakelkar/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/chaitanyakelkar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
