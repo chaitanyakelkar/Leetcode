@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/chaitanyakelkar/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/chaitanyakelkar/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/chaitanyakelkar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/chaitanyakelkar/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/chaitanyakelkar/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/chaitanyakelkar/Leetcode/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/chaitanyakelkar/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/chaitanyakelkar/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/chaitanyakelkar/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Counting
 |  |
