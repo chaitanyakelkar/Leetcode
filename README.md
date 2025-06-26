@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/chaitanyakelkar/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/chaitanyakelkar/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chaitanyakelkar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/chaitanyakelkar/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/chaitanyakelkar/Leetcode/tree/master/0792-binary-search) |
 ## Database
 |  |
 | ------- |
