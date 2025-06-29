@@ -4,6 +4,8 @@ class Solution {
         for (int num: arr){
             if (num <= y){
                 y++;
+            } else {
+                return y;
             }
         }
         return y;
