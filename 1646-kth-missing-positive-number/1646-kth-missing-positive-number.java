@@ -26,6 +26,6 @@ class Solution {
             }
         }
 
-        return left + k;
+        return left + k; // or right + 1 + k
     }
 }
