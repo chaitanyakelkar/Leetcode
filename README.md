@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/chaitanyakelkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chaitanyakelkar/Leetcode/tree/master/0125-valid-palindrome) |
+| [3396-valid-word](https://github.com/chaitanyakelkar/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/chaitanyakelkar/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Matrix
 |  |
