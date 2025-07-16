@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select name from (select a.name, count(*) as directReports from Employee as a cross join Employee as b where b.managerId = a.Id group by a.id) as c where c.directReports >= 5;
