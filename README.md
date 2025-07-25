@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chaitanyakelkar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaitanyakelkar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyakelkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakelkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaitanyakelkar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyakelkar/Leetcode/tree/master/0011-container-with-most-water) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaitanyakelkar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
