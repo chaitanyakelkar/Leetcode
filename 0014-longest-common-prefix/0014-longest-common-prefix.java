@@ -1,14 +1,10 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        int index = 1;
         StringBuilder prefix = new StringBuilder(strs[0]);
 
-        while (prefix.length() > 0 && index < strs.length){
-            if (prefix.length() != 0 && strs[index].indexOf(prefix.toString()) != 0){
+        for (int i = 1; i < strs.length; i++){
+            while (!strs[i].startsWith(prefix.toString())){
                 prefix.deleteCharAt(prefix.length() - 1);
-                index = 1;
-            } else {
-                index++;
             }
         }
 
