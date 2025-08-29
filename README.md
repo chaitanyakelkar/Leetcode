@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2481-strictly-palindromic-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyakelkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chaitanyakelkar/Leetcode/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
