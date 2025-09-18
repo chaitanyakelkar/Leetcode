@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chaitanyakelkar/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/chaitanyakelkar/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/chaitanyakelkar/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/chaitanyakelkar/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/chaitanyakelkar/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyakelkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakelkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaitanyakelkar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chaitanyakelkar/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/chaitanyakelkar/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/chaitanyakelkar/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/chaitanyakelkar/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Database
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/chaitanyakelkar/Leetcode/tree/master/0011-container-with-most-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaitanyakelkar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chaitanyakelkar/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 <!---LeetCode Topics End-->
