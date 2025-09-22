@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chaitanyakelkar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyakelkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakelkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chaitanyakelkar/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chaitanyakelkar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanyakelkar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3396-valid-word](https://github.com/chaitanyakelkar/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/chaitanyakelkar/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Matrix
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chaitanyakelkar/Leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chaitanyakelkar/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyakelkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -283,5 +287,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
