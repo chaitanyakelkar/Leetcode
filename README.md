@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/chaitanyakelkar/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaitanyakelkar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/chaitanyakelkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/chaitanyakelkar/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/chaitanyakelkar/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/chaitanyakelkar/Leetcode/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/chaitanyakelkar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
