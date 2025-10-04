@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1642-water-bottles](https://github.com/chaitanyakelkar/Leetcode/tree/master/1642-water-bottles) |
 | [2481-strictly-palindromic-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/chaitanyakelkar/Leetcode/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/chaitanyakelkar/Leetcode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/chaitanyakelkar/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
