@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/chaitanyakelkar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanyakelkar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/chaitanyakelkar/Leetcode/tree/master/0792-binary-search) |
+| [0853-car-fleet](https://github.com/chaitanyakelkar/Leetcode/tree/master/0853-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyakelkar/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chaitanyakelkar/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/chaitanyakelkar/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanyakelkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chaitanyakelkar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/chaitanyakelkar/Leetcode/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/chaitanyakelkar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/chaitanyakelkar/Leetcode/tree/master/0853-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/chaitanyakelkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/chaitanyakelkar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/chaitanyakelkar/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0853-car-fleet](https://github.com/chaitanyakelkar/Leetcode/tree/master/0853-car-fleet) |
 ## Simulation
 |  |
 | ------- |
