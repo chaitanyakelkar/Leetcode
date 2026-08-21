@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaitanyakelkar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/chaitanyakelkar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/chaitanyakelkar/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/chaitanyakelkar/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/chaitanyakelkar/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/chaitanyakelkar/Leetcode/tree/master/1013-fibonacci-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chaitanyakelkar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/chaitanyakelkar/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/chaitanyakelkar/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanyakelkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chaitanyakelkar/Leetcode/tree/master/0283-move-zeroes) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanyakelkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/chaitanyakelkar/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/chaitanyakelkar/Leetcode/tree/master/0143-reorder-list) |
 | [0853-car-fleet](https://github.com/chaitanyakelkar/Leetcode/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chaitanyakelkar/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/chaitanyakelkar/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/chaitanyakelkar/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/chaitanyakelkar/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/chaitanyakelkar/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/chaitanyakelkar/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Sliding Window
