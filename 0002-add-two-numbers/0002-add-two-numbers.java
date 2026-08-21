@@ -9,48 +9,43 @@
  * }
  */
 class Solution {
-    int calc(int a, int b, int[] carry){
+    public int calc(int a, int b, int[] carry){
         int sum = a + b + carry[0];
+        carry[0] = 0;
         if (sum > 9){
             sum = sum % 10;
             carry[0] = 1;
-        } else {
-            carry[0] = 0;
         }
         return sum;
     }
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode temp1 = l1;
-        ListNode temp2 = l2;
-        ListNode res = new ListNode(0);
-        ListNode temp3 = res;
+        ListNode t1 = l1;
+        ListNode t2 = l2;
+        ListNode l3 = new ListNode();
+        ListNode t3 = l3;
         int[] carry = new int[1];
 
-        temp3.val = calc(temp1.val, temp2.val, carry);
-        temp1 = temp1.next;
-        temp2 = temp2.next;
-        while(temp1 != null && temp2 != null){
-            temp3.next = new ListNode(calc(temp1.val, temp2.val, carry));
-            temp1 = temp1.next;
-            temp2 = temp2.next;
-            temp3 = temp3.next;
+        while (t1 != null && t2 != null){
+            t3.next = new ListNode(calc(t1.val, t2.val, carry));
+            t3 = t3.next;
+            t1 = t1.next;
+            t2 = t2.next;
         }
-        while(temp1 != null){
-            temp3.next = new ListNode(calc(temp1.val, 0, carry));
-            temp1 = temp1.next;
-            temp3 = temp3.next;
+        while (t1 != null){
+            t3.next = new ListNode(calc(t1.val, 0, carry));
+            t3 = t3.next;
+            t1 = t1.next;
         }
-        while(temp2 != null){
-            temp3.next = new ListNode(calc(temp2.val, 0, carry));
-            temp2 = temp2.next;
-            temp3 = temp3.next;
+        while (t2 != null){
+            t3.next = new ListNode(calc(t2.val, 0, carry));
+            t3 = t3.next;
+            t2 = t2.next;
         }
         if (carry[0] == 1){
-            temp3.next = new ListNode(1);
-            temp3 = temp3.next;
+            t3.next = new ListNode(1);
         }
 
-        return res;
+        return l3.next;
     }
 }
