@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/chaitanyakelkar/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/chaitanyakelkar/Leetcode/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/chaitanyakelkar/Leetcode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/chaitanyakelkar/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyakelkar/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chaitanyakelkar/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/chaitanyakelkar/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/chaitanyakelkar/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/chaitanyakelkar/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/chaitanyakelkar/Leetcode/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/chaitanyakelkar/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/chaitanyakelkar/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/chaitanyakelkar/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/chaitanyakelkar/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
